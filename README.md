@@ -1,36 +1,61 @@
-Hi there! 👋
-I’m Zekarias Solomon, a passionate web and app developer who loves creating software that makes a real difference. What started as curiosity has grown into a fulfilling career where I solve problems, write clean code, and turn ideas into reality.
+# Hi there! 👋  
 
-🔧 What I Do
-I specialize in:
+I’m **Zekarias Solomon**, a passionate **web and app developer** who loves building software that makes a real difference in people’s lives.  
 
-Web Development
-Mobile App Development
-My tech stack includes:
+My journey into tech started with pure curiosity and has grown into a fulfilling career where I get to:  
+- 🛠️ Solve meaningful problems  
+- 💻 Write clean and efficient code  
+- 🎨 Turn creative ideas into reality  
 
-React
-React Native
-Node.js
-MongoDB
-Java
-Python
-I thrive in backend development, where I design robust and scalable systems.
+---
 
-🌱 What Drives Me
-I’m always learning and exploring new tools and technologies to stay ahead in this fast-moving field.
-I value collaboration and love sharing knowledge with others—it makes the journey more rewarding!
-🌟 Fun Facts
-🎶 Jazz and blues are my creative fuel—I’m a huge music enthusiast.
-🚗 I’m an avid car enthusiast, dreaming of building my ultimate garage someday.
+## 🔧 **What I Do**  
 
-💼 Work Highlights
-Developed the Afar National Security Intelligence Information System.
-Created a mobile banking wallet app with a tech startup.
-Contributed to a cafe billing system for Semera University.
-📫 Let’s Connect!
-I’d love to collaborate and create something amazing together!
+I specialize in **web and mobile app development**, with expertise in:  
 
-Email: zekariassolomon14@gmail.com
-LinkedIn: linkedin.com/in/zekarias-solomon-79672b229
-GitHub: github.com/akilas-solo
-Thanks for stopping by—let’s build something awesome! 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+While I enjoy working across the stack, **backend development** is my favorite playground—it’s where I create robust, scalable systems that power great software.  
+
+---
+
+## 🌱 **What Keeps Me Going**  
+
+- I’m a **lifelong learner**, always exploring new tools and technologies to stay ahead in this ever-evolving field.  
+- **Collaboration** and **knowledge sharing** are at the core of my work—I believe great solutions come from teamwork.  
+- Staying **curious and adaptable** keeps me energized and focused on solving complex challenges.  
+
+---
+
+## 🌟 **A Few Fun Facts**  
+
+- 🎶 **Jazz and blues** are my go-to genres for creativity and focus.  
+- 🚗 I’m an **avid car enthusiast**, dreaming of a bigger garage someday!  
+- 💡 I bring a mix of creativity and analytical thinking to my work, blending my passions into unique problem-solving approaches.  
+
+---
+
+## 💼 **A Few Highlights from My Work**   
+- 🔐 Developed the **Afar National Security Intelligence Information System** and a **mobile banking wallet app** as part of a tech startup.  
+- ☕ Contributed to a **cafe billing system** for Semera University, streamlining operations and improving efficiency.  
+
+---
+
+## 📫 **Let’s Connect**  
+
+I’d love to collaborate and explore how we can create something amazing together!  
+
+- 💌 Email: [zekariassolomon14@gmail.com](mailto:zekariassolomon14@gmail.com)  
+- 🌐 LinkedIn: [Zekarias Solomon](https://www.linkedin.com/in/zekarias-solomon-79672b229)  
+- 🔗 GitHub: [akilas-solo](https://github.com/akilas-solo)  
+
+---
+
+### 🚀 Thanks for stopping by—let’s build something incredible!
