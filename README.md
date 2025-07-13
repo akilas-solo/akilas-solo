@@ -55,7 +55,7 @@ While I enjoy working across the stack, **backend development** is my favorite p
 I’d love to collaborate and explore how we can create something amazing together!  
 
 - 💌 Email: [zekariassolomon14@gmail.com](mailto:zekariassolomon14@gmail.com)  
-- 🌐 LinkedIn: [Zekarias Solomon](https://www.linkedin.com/in/zekarias-solomon-79672b229)  
+- 🌐 LinkedIn: [Zekarias Solomon](linkedin.com/in/zekarias-solomon-11a540372)  
 - 🔗 GitHub: [akilas-solo](https://github.com/akilas-solo)  
 
 ---
