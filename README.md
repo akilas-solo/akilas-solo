@@ -47,7 +47,6 @@ const zekarias = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### **Database & Cloud**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,7 +54,6 @@ const zekarias = {
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### **Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -87,7 +85,7 @@ const zekarias = {
 
 | 🚀 **Project** | 🛠️ **Tech Stack** | 📝 **Description** |
 |:---|:---|:---|
-| **🔐 Afar National Security Intelligence System** | Java, Spring Boot, PostgreSQL | Enterprise-grade security information management system |
+| **🔐 Afar National Security Intelligence System** | Reat, Firebase, MongoDb | Enterprise-grade security information management system |
 | **💳 Mobile Banking Wallet App** | React Native, Node.js, MongoDB | Secure mobile banking solution for fintech startup |
 | **☕ Cafe Billing System** | React, Express.js, MySQL | Streamlined operations system for Semera University |
 | **📰 News Aggregator API** | Node.js, AI Integration, WebSocket | AI-powered news platform with real-time updates |
