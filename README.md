@@ -74,6 +74,7 @@ class Developer {
 | Project | Stack | Description |
 |---------|-------|-------------|
 | **Security Intelligence System** | React, Firebase, MongoDB | Enterprise security management |
+| **Employee Performance Management** | Laravel, MySQL | Academic performance tracking system |
 | **Mobile Banking Wallet** | React Native, Node.js | Fintech mobile banking solution |
 | **Cafe Billing System** | React, Express.js, MySQL | University cafe operations |
 | **News Aggregator API** | Node.js, WebSocket | Real-time news platform |
